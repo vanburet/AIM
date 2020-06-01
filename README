@@ -1,1 +1,8 @@
 Currently this is just a repository to an ongoing opensource porject that my team is working on.
+
+1. Tensorflow: We are currently working off of tensorflow for building mobile model using their tflite tool:
+https://www.tensorflow.org/lite/
+2. Green Doctor: Mobile application, uses Kotlin for a simple mobile image classifier: 
+https://github.com/obeshor/Plant-Diseases-Detector
+3. Deeplab: Image segmentation app to help users see what the model is looking at: 
+https://github.com/pillarpond/image-segmenter-android
